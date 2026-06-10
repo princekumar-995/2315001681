@@ -1,0 +1,20 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "A production-ready reusable JavaScript logging middleware package that authenticates and sends logs to the evaluation service.",
+  "main": "logger.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "evaluation",
+    "reusable"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
